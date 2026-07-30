@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+.idea/
+.vscode/
+
+saved_model/*.h5
+saved_model/*.keras
+
+dataset/
+
+# GloVe embeddings
+embeddings/
+
+
+*.log
