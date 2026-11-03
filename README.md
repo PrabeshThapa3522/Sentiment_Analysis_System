@@ -19,6 +19,7 @@ Build a sentiment analysis system that classifies text into:
 - Word2Vec embeddings
 - Logistic Regression baseline
 - LSTM Deep Learning model
+- RNN Deep Learning model
 - Accuracy, Precision, Recall and F1-score
 - Model comparison
 - Streamlit web application
@@ -44,9 +45,7 @@ Twitter Sentiment Dataset
 
 ---
 
-## Project Structure
 
-(Add your folder tree)
 
 ---
 
@@ -56,6 +55,8 @@ Twitter Sentiment Dataset
 |--------|----------|
 | Logistic Regression | xx.xx% |
 | LSTM | xx.xx% |
+| RNN | xx.xx%  |
+
 
 ---
 
